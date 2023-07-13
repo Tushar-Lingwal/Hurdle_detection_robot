@@ -13,5 +13,8 @@ the components used for the robot are as followed:
 5. car body ( chassis )
 6. junper cables (male to male and male to female)
 7. 3.7v x 3 lithium ion battery set( 11.7v total)
-8. 4 geared motor 
-  
+8. 4 geared motor
+
+
+https://github.com/Tushar-Lingwal/Hurdle_detection_robot/assets/81462389/a48966e1-b963-42b1-8008-1d66b0d5e1f5
+
